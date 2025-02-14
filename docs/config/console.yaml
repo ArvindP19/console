@@ -29,6 +29,8 @@ kafka:
     - broker-0.mycompany.com:19092
     - broker-1.mycompany.com:19092
     - broker-2.mycompany.com:19092
+    - broker-3.mycompany.com:19092
+    - broker-4.mycompany.com:19092
   # clientId: console
   # rackId: # In multi zone Kafka clusters you can reduce traffic costs by consuming messages from replica brokers in the same zone
   # sasl:
